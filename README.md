@@ -1,5 +1,7 @@
 # 【爱编码】公众号文章
 
+## 开发规范
+
 ## Java基础
 
 - [Java 8 Stream原理解析](http://xbmcloud.cn/archives/java8-stream-learning)
@@ -11,10 +13,14 @@
 ## JVM
 
 - [高并发场景下JVM调优实践之路](http://xbmcloud.cn/archives/jvm-tuning-practices)
+- [OOM异常分析与处理技巧](https://mp.weixin.qq.com/s/yx21hpcYl8-z-tbPoOEWLg)
+- [线上故障如何快速排查？来看这套技巧大全](https://mp.weixin.qq.com/s/z9yHyqjEgRKl9bTt-uyaog)
 
 ## MySQL
 
 - [深入理解 MySQL ——锁、事务与并发控制](http://xbmcloud.cn/archives/mysql-lock-mvcc)
+- [聊聊sql优化的15个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490473&idx=1&sn=ba07d64aa8c89054bd263efd660d3a3f&source=41#wechat_redirect)
+
 
 ## Spring&SpringBoot
 
