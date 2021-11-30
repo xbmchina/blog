@@ -14,9 +14,12 @@
 - [5亿整数的大文件，怎么排？](https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&mid=2247485269&idx=1&sn=8aec112f106c1b4c5d3456f7662105e4&chksm=9bed2627ac9aaf312378db54b9bc55d8b7091a9e16b7e0eaa94516a3e8b78856faec43b2a9ea#rd)
 - [科普：String hashCode 方法为什么选择数字31作为乘子](https://www.cnblogs.com/nullllun/p/8350178.html)
 - [聊聊 SPI 机制](https://juejin.cn/post/7015524206540980237)
+- [聊聊Unsafe的一些使用技巧](https://juejin.cn/post/7018385111485775885)
+- [Java8的Optional你真的用对了吗？](https://juejin.cn/post/7018575730518786085)
 
 ## Java并发
 
+- [我惊了！CompletableFuture居然有性能问题！](https://juejin.cn/post/7016919183510208543)
 
 
 ## JVM
@@ -25,18 +28,22 @@
 - [OOM异常分析与处理技巧](https://mp.weixin.qq.com/s/yx21hpcYl8-z-tbPoOEWLg)
 - [线上故障如何快速排查？来看这套技巧大全](https://mp.weixin.qq.com/s/z9yHyqjEgRKl9bTt-uyaog)
 - [一个线程OOM，进程里其他线程还能运行么？](https://mp.weixin.qq.com/s?__biz=MzIwMDgzMjc3NA==&mid=2247483951&idx=1&sn=ca041d4564203ca2fcd329b748a594b0&chksm=96f66046a181e95033c031ead894a66942697f8460832634e16309ef038e06accabb767b59d4#rd)
+- [JVM 面试题，安排上了！！！](https://juejin.cn/post/7016526088851423268)
+- [内存泄露MAT工具看本文就够了](https://juejin.cn/post/7018183597848789022)
+
 
 ## MySQL
 
 - [深入理解 MySQL ——锁、事务与并发控制](http://xbmcloud.cn/archives/mysql-lock-mvcc)
 - [聊聊sql优化的15个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490473&idx=1&sn=ba07d64aa8c89054bd263efd660d3a3f&source=41#wechat_redirect)
 - [Innodb中mysql如何快速删除2T的大表](https://mp.weixin.qq.com/s?__biz=MzIwMDgzMjc3NA==&mid=2247483912&idx=1&sn=02fe7207f2aab935d02f11cca2ef7643&chksm=96f66061a181e97764e8a6f73a70ec827840cea6c62a80c11ea28352155d032470faba72a489#rd)
+- [面试官一口气问了MySQL事务、锁和MVCC，](https://juejin.cn/post/7016486567485112356)
 
 ## Spring&SpringBoot
 
 - [手写 Spring MVC](http://xbmcloud.cn/archives/shou-xie-springmvc)
 - [Controller类的方法上的RequestMapping一定要写在Controller类里吗？](https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&mid=2247484203&idx=1&sn=0a3e77fdf3f3b5a6298bd68dd46802ee&chksm=9bed2259ac9aab4fbb49abcc2b1d8d624db51f047edb83185fe5e941442786a980f6f6e8ae06#rd)
-
+- [AOP 插件就这？上手不用两分钟！！](https://juejin.cn/post/7018711061255684109)
 
 ## SpringCloud系列
 
@@ -48,12 +55,14 @@
 - [Hystrix原理分析](http://xbmcloud.cn/archives/hystrix)
 - [Hystrix 如何解决 ThreadLocal 信息丢失](http://xbmcloud.cn/archives/hystrix-and-threadlocal)
 - [限流降级神器-哨兵(sentinel)原理分析](https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&mid=2247484425&idx=1&sn=58cddf736260c02096e32234fc11cb4d&chksm=9bed257bac9aac6df9f786d0d3a1629e6c2c5d7f4318accfe0681b47773d169fe1b35e079625#rd)
-
+- [阿里限流神器Sentinel夺命连环 17 问？](https://juejin.cn/post/7017071945447374884)
 
 ## Redis
 
 - [Redis&Redisson 关于分布式锁中看门狗机制 源码理解 超卖问题](https://juejin.cn/post/7015532312196562957)
-
+- [缓存与数据库不一致，咋办？](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961356&idx=1&sn=8fa6a57d128a3255a049bee868a7a917&scene=21#wechat_redirect)
+- [Cache Aside Pattern](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961349&idx=1&sn=59119a223f62d3740712ca0f62064f04&scene=21#wechat_redirect)
+- [Redis持久化——AOF/RDB详述](https://juejin.cn/post/7015034404305109028)
 
 ## MQ
 
@@ -64,4 +73,4 @@
 
 - [亿级流量系统架构之如何设计承载百亿流量的高性能架构【石杉的架构笔记】](https://mmbiz.qpic.cn/mmbiz_png/1J6IbIcPCLZ2Q0QUMv7gaydns5wtUQtEIcnnaU9Eia7vibrUKfRsso3jic5xQOranZ2y3MyK7PZFuJTnOib0Fjx9Eg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 - [一个学渣的阿里之路](https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&mid=2247484314&idx=1&sn=421fca5142627441fe0bd54c8fbb4002&chksm=9bed22e8ac9aabfea91c2bc25b6ec0879986f1f5f29570cde19a8f02307caf03206c7aebdb20#rd)
-
+- [案例分享—服务器被植入挖矿程序排查](https://juejin.cn/post/7017233579415437349)
