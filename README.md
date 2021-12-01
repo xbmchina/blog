@@ -2,9 +2,20 @@
 
 ## 开发规范
 
+- [那些年，我们踩过的Java坑](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247484887&idx=3&sn=cce1e37833d7c081ad71cc8a65593494&chksm=cf4a5d34f83dd42245207106148ee938b4fb21ef3afeaca873589a036311846d57434cfc9cb4#rd)
+- [Java8的Optional你真的用对了吗？](https://juejin.cn/post/7018575730518786085)
+- [Java编程技巧：如何实现参数的输入输出？](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247485349&idx=3&sn=ad78bc7dc97b87168379967ec7c6c423&chksm=cf4a5f46f83dd650249b446cc710f33ceec9ab68d6e9bcba25868f977a080a0eebb6cf196405#rd)
+- [Java代码精简之道](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247484936&idx=3&sn=e74099ebd68669b17f57c266f3bdb09b&chksm=cf4a5eebf83dd7fd9183b9da7309dec32617ca70e02ae2fc531118bfe9a56cf41562e3805471#rd)
+- [Java编码技巧之高效代码50例](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247484462&idx=2&sn=49a73dcaed434f1ab2c912090d6deb00&chksm=cf4a5ccdf83dd5dbd89e39c40f135bafd54ef7653cd0183076b44fd2936cf615c4041fcbb014#rd)
+- [Java 编程技巧之数据结构](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247484274&idx=3&sn=4423dc14ead3a466a0c0e2a9df277f8a&chksm=cf4a5b91f83dd2872ce988b50829fa55f1d50d0164f511b599476b2555a72fe1da9d9983536f#rd)
+- [那些年，我们见过的Java服务端“问题”](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247484236&idx=2&sn=370f235cc39418069b4f600b9da97424&chksm=cf4a5baff83dd2b9efce142180922b8ba6f26c10c0a383da408375bb37f7b56f834bf227b798#rd)
+- [编码规范 | Java函数优雅之道（上）](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247483963&idx=2&sn=62f88c6f73c657fc1c1f450c94237226&chksm=cf4a5ad8f83dd3ce4cc77e17e6ba4a32cb9953713e87637262206c2702ab0a9a93f6f59689a0#rd)
+- [Java函数优雅之道（下）](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247484054&idx=3&sn=015d341e08deaeb2aae74569f76094fb&chksm=cf4a5a75f83dd36346082d592239b52ae4bfbb7f1ef4feff7492db7dd0154186ac6713bbbddf#rd)
+
 ## 设计模式
 
 - [从策略模式闲扯到lambda表达式](https://mp.weixin.qq.com/s?__biz=MzIwMDgzMjc3NA==&mid=2247483670&idx=1&sn=078f7d81e7b4fbae416f67b1a505e207&chksm=96f6637fa181ea69a77471a3de98aad6c14ea41a122a799e7696e445ec279a6d6731a80b1a41#rd)
+- [高德打车通用可编排订单状态机引擎设计](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247486399&idx=3&sn=b6d9b6af6a4afc24b52f48e6d855154f&chksm=cf4a535cf83dda4a6708d71668d1284eaceba1ebd14391df39cc8b0994899a5f50e6eb7c7129#rd)
 
 ## Java基础
 
@@ -15,7 +26,6 @@
 - [科普：String hashCode 方法为什么选择数字31作为乘子](https://www.cnblogs.com/nullllun/p/8350178.html)
 - [聊聊 SPI 机制](https://juejin.cn/post/7015524206540980237)
 - [聊聊Unsafe的一些使用技巧](https://juejin.cn/post/7018385111485775885)
-- [Java8的Optional你真的用对了吗？](https://juejin.cn/post/7018575730518786085)
 
 ## Java并发
 
@@ -38,12 +48,18 @@
 - [聊聊sql优化的15个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490473&idx=1&sn=ba07d64aa8c89054bd263efd660d3a3f&source=41#wechat_redirect)
 - [Innodb中mysql如何快速删除2T的大表](https://mp.weixin.qq.com/s?__biz=MzIwMDgzMjc3NA==&mid=2247483912&idx=1&sn=02fe7207f2aab935d02f11cca2ef7643&chksm=96f66061a181e97764e8a6f73a70ec827840cea6c62a80c11ea28352155d032470faba72a489#rd)
 - [面试官一口气问了MySQL事务、锁和MVCC，](https://juejin.cn/post/7016486567485112356)
+- [256变4096：分库分表扩容如何实现平滑数据迁移？](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247486000&idx=3&sn=f30f1d36091b5106b7df8705a89650bf&chksm=cf4a52d3f83ddbc562e55e11a8029431d70fd23b35613632d880c2f8a1be4996e2dad33e1d65#rd)
+
 
 ## Spring&SpringBoot
 
 - [手写 Spring MVC](http://xbmcloud.cn/archives/shou-xie-springmvc)
 - [Controller类的方法上的RequestMapping一定要写在Controller类里吗？](https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&mid=2247484203&idx=1&sn=0a3e77fdf3f3b5a6298bd68dd46802ee&chksm=9bed2259ac9aab4fbb49abcc2b1d8d624db51f047edb83185fe5e941442786a980f6f6e8ae06#rd)
 - [AOP 插件就这？上手不用两分钟！！](https://juejin.cn/post/7018711061255684109)
+- [针对 SpringSecurity 鉴权流程做了一个详细分析，让你明白它是如何执行的！](https://juejin.cn/post/7020210372871192583)
+- [SpringBoot2.0实战 | 第三十章：整合SpringSecurity之基于SpEL表达式实现动态方法鉴权](https://blog.csdn.net/gongm24/article/details/105052711)
+- [249.Spring Boot+Spring Security：基于URL动态权限：扩展access()的SpEL表达式](https://mp.weixin.qq.com/s?__biz=MzA4ODIyMzEwMg==&mid=2447533899&idx=1&sn=fa4272d828147ef2a6b5246acb724283&chksm=843bbb5ab34c324cf7392f28bd79fcf2bbd06b697f5123ca83104903c64b92b06abaaa349808&scene=21#wechat_redirect)
+
 
 ## SpringCloud系列
 
@@ -63,14 +79,21 @@
 - [缓存与数据库不一致，咋办？](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961356&idx=1&sn=8fa6a57d128a3255a049bee868a7a917&scene=21#wechat_redirect)
 - [Cache Aside Pattern](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961349&idx=1&sn=59119a223f62d3740712ca0f62064f04&scene=21#wechat_redirect)
 - [Redis持久化——AOF/RDB详述](https://juejin.cn/post/7015034404305109028)
+- [系统性能提升利刃 | 缓存技术使用的实践与思考](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247484157&idx=3&sn=80b6c6a9b063e1690fdce9487b218a11&chksm=cf4a5a1ef83dd30826cd09c704e6e9f86d6d5cd15e627d1f4fbe37d44b718803b197e3706def#rd)
 
 ## MQ
 
 
 ## ES
 
+## 测试工具
+
+- [Java单元测试技巧之PowerMock](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247486040&idx=3&sn=33e631be14fa095429f6f7a990bf26cc&chksm=cf4a52bbf83ddbad50df5c1e3cf0627104ac65306d72d78f1bf812db17ae409593d193f16bb2#rd)
+
 ## 其他
 
 - [亿级流量系统架构之如何设计承载百亿流量的高性能架构【石杉的架构笔记】](https://mmbiz.qpic.cn/mmbiz_png/1J6IbIcPCLZ2Q0QUMv7gaydns5wtUQtEIcnnaU9Eia7vibrUKfRsso3jic5xQOranZ2y3MyK7PZFuJTnOib0Fjx9Eg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 - [一个学渣的阿里之路](https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&mid=2247484314&idx=1&sn=421fca5142627441fe0bd54c8fbb4002&chksm=9bed22e8ac9aabfea91c2bc25b6ec0879986f1f5f29570cde19a8f02307caf03206c7aebdb20#rd)
 - [案例分享—服务器被植入挖矿程序排查](https://juejin.cn/post/7017233579415437349)
+- [聊聊如何设计百万级抽奖系统](https://juejin.cn/post/7018762492272705572)
+- [阿里巴巴CTO独家自述：CTO就是要给CEO扫清障碍和风险](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247486828&idx=2&sn=682f9d087bc67818e3735768b5c4ba95&chksm=cf4a558ff83ddc999a94984f9e9c8e89c67f6a9148618322b7ac8010398b6631331e00084588#rd)
