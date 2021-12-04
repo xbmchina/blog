@@ -40,7 +40,7 @@
 - [一个线程OOM，进程里其他线程还能运行么？](https://mp.weixin.qq.com/s?__biz=MzIwMDgzMjc3NA==&mid=2247483951&idx=1&sn=ca041d4564203ca2fcd329b748a594b0&chksm=96f66046a181e95033c031ead894a66942697f8460832634e16309ef038e06accabb767b59d4#rd)
 - [JVM 面试题，安排上了！！！](https://juejin.cn/post/7016526088851423268)
 - [内存泄露MAT工具看本文就够了](https://juejin.cn/post/7018183597848789022)
-
+- [Java-第十四部分-JVM](https://juejin.cn/post/7013272188585246750/)
 
 ## MySQL
 
@@ -59,7 +59,11 @@
 - [针对 SpringSecurity 鉴权流程做了一个详细分析，让你明白它是如何执行的！](https://juejin.cn/post/7020210372871192583)
 - [SpringBoot2.0实战 | 第三十章：整合SpringSecurity之基于SpEL表达式实现动态方法鉴权](https://blog.csdn.net/gongm24/article/details/105052711)
 - [249.Spring Boot+Spring Security：基于URL动态权限：扩展access()的SpEL表达式](https://mp.weixin.qq.com/s?__biz=MzA4ODIyMzEwMg==&mid=2447533899&idx=1&sn=fa4272d828147ef2a6b5246acb724283&chksm=843bbb5ab34c324cf7392f28bd79fcf2bbd06b697f5123ca83104903c64b92b06abaaa349808&scene=21#wechat_redirect)
+- [Spring Boot + GraphQL 才是 API 的未来！](https://juejin.cn/post/7020216021206335524)
 
+## MyBatis
+
+- [MyBatis 自定义 SQL 拦截器](https://juejin.cn/post/7021508758777888799)
 
 ## SpringCloud系列
 
@@ -80,6 +84,8 @@
 - [Cache Aside Pattern](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961349&idx=1&sn=59119a223f62d3740712ca0f62064f04&scene=21#wechat_redirect)
 - [Redis持久化——AOF/RDB详述](https://juejin.cn/post/7015034404305109028)
 - [系统性能提升利刃 | 缓存技术使用的实践与思考](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247484157&idx=3&sn=80b6c6a9b063e1690fdce9487b218a11&chksm=cf4a5a1ef83dd30826cd09c704e6e9f86d6d5cd15e627d1f4fbe37d44b718803b197e3706def#rd)
+- [图解Redis6中的9种数据结构，墙裂建议准备去面试的人先看（干货，建议收藏）](https://juejin.cn/post/7020976429072384013)
+
 
 ## MQ
 
@@ -90,6 +96,18 @@
 
 - [Java单元测试技巧之PowerMock](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247486040&idx=3&sn=33e631be14fa095429f6f7a990bf26cc&chksm=cf4a52bbf83ddbad50df5c1e3cf0627104ac65306d72d78f1bf812db17ae409593d193f16bb2#rd)
 
+## 图书资源
+
+- [CS-Books-Store](https://github.com/Jackpopc/CS-Books-Store)
+
+## 项目案例
+
+- [万岳直播商城系统服务端+后台web版](https://gitee.com/WanYueKeJi/wanyue_zhibo_web)
+
+
+## Linux
+- [Centos7 设置定时任务](https://blog.csdn.net/qq_19734597/article/details/92676323)
+
 ## 其他
 
 - [亿级流量系统架构之如何设计承载百亿流量的高性能架构【石杉的架构笔记】](https://mmbiz.qpic.cn/mmbiz_png/1J6IbIcPCLZ2Q0QUMv7gaydns5wtUQtEIcnnaU9Eia7vibrUKfRsso3jic5xQOranZ2y3MyK7PZFuJTnOib0Fjx9Eg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
@@ -97,3 +115,21 @@
 - [案例分享—服务器被植入挖矿程序排查](https://juejin.cn/post/7017233579415437349)
 - [聊聊如何设计百万级抽奖系统](https://juejin.cn/post/7018762492272705572)
 - [阿里巴巴CTO独家自述：CTO就是要给CEO扫清障碍和风险](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247486828&idx=2&sn=682f9d087bc67818e3735768b5c4ba95&chksm=cf4a558ff83ddc999a94984f9e9c8e89c67f6a9148618322b7ac8010398b6631331e00084588#rd)
+- [团队管理那点破事！OKR绩效、核心人才、面试、技术分享、研发流程....](https://mp.weixin.qq.com/s/1wd5-LiX3BKTZys3hfu9MQ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
