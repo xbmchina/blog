@@ -85,7 +85,7 @@
 - [Redis持久化——AOF/RDB详述](https://juejin.cn/post/7015034404305109028)
 - [系统性能提升利刃 | 缓存技术使用的实践与思考](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247484157&idx=3&sn=80b6c6a9b063e1690fdce9487b218a11&chksm=cf4a5a1ef83dd30826cd09c704e6e9f86d6d5cd15e627d1f4fbe37d44b718803b197e3706def#rd)
 - [图解Redis6中的9种数据结构，墙裂建议准备去面试的人先看（干货，建议收藏）](https://juejin.cn/post/7020976429072384013)
-
+- [Nginx 通过 Lua + Redis 实现动态封禁 IP](https://segmentfault.com/a/1190000018267201)
 
 ## MQ
 
