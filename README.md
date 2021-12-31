@@ -26,6 +26,8 @@
 - [科普：String hashCode 方法为什么选择数字31作为乘子](https://www.cnblogs.com/nullllun/p/8350178.html)
 - [聊聊 SPI 机制](https://juejin.cn/post/7015524206540980237)
 - [聊聊Unsafe的一些使用技巧](https://juejin.cn/post/7018385111485775885)
+- [SPI 在 Dubbo中 的应用](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488642&idx=3&sn=d65311872f0793f98daeba7fcae4b6b5&chksm=ebd86410dcafed068a0ec4fc73087a00ce3bf3e4e1bb788db145e0b6b0518036b8c0ccf2e5b0#rd)
+
 
 ## Java并发
 
@@ -81,6 +83,9 @@
 - [Seata是什么？一文了解其实现原理](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488533&idx=2&sn=26f0b9dbb75921c19264de1e7f724b8e&chksm=ebd86487dcafed91409a7e6dce86c59d03b2e0033a7f09849ee001bcbbd24094562c1e300d4a#rd)
 - [Canal 组件简介与 vivo 帐号实践](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488533&idx=1&sn=508f45926cc018ae018656cf4660201a&chksm=ebd86487dcafed91adce055e95dd1614f8e3f599c7baf178cb5d0d7f9bbb8da9acf86fc50021#rd)
 - [CANAL源码解析](http://www.tianshouzhi.com/api/tutorials/canal)
+- [Sentinel 是如何做限流的](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488600&idx=2&sn=6374ed6a79e7c29e2b9007500c97199d&chksm=ebd864cadcafeddc5593b41bc3601de925af18c1a3cc4def969a67679b2888540b950238d36c#rd)
+- [Sentinel官方文档](https://github.com/alibaba/Sentinel/wiki)
+
 
 
 ## Redis
@@ -122,7 +127,7 @@
 - [聊聊如何设计百万级抽奖系统](https://juejin.cn/post/7018762492272705572)
 - [阿里巴巴CTO独家自述：CTO就是要给CEO扫清障碍和风险](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247486828&idx=2&sn=682f9d087bc67818e3735768b5c4ba95&chksm=cf4a558ff83ddc999a94984f9e9c8e89c67f6a9148618322b7ac8010398b6631331e00084588#rd)
 - [团队管理那点破事！OKR绩效、核心人才、面试、技术分享、研发流程....](https://mp.weixin.qq.com/s/1wd5-LiX3BKTZys3hfu9MQ)
-
+- [vivo 全球商城：架构演进之路](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488600&idx=1&sn=3d97f0a90469c4ed76a387d14c6c385b&chksm=ebd864cadcafeddcd2f00ecf0da396b486f678b7effa7453dc70e6a96ebbf3b3ffa2f0b0e77c#rd)
 
 
 
