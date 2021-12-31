@@ -64,6 +64,8 @@
 ## MyBatis
 
 - [MyBatis 自定义 SQL 拦截器](https://juejin.cn/post/7021508758777888799)
+- [SpringBoot 2.0 中 HikariCP 数据库连接池原理解析](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490170&idx=2&sn=aefac956ff0c205130d02d0be248859a&chksm=ebd86ae8dcafe3fe58fd321e9ab9f5c43616b867196fc3c7e2cf72b3dcf0372e32643f1a2383#rd)
+
 
 ## SpringCloud系列
 
@@ -76,6 +78,10 @@
 - [Hystrix 如何解决 ThreadLocal 信息丢失](http://xbmcloud.cn/archives/hystrix-and-threadlocal)
 - [限流降级神器-哨兵(sentinel)原理分析](https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&mid=2247484425&idx=1&sn=58cddf736260c02096e32234fc11cb4d&chksm=9bed257bac9aac6df9f786d0d3a1629e6c2c5d7f4318accfe0681b47773d169fe1b35e079625#rd)
 - [阿里限流神器Sentinel夺命连环 17 问？](https://juejin.cn/post/7017071945447374884)
+- [Seata是什么？一文了解其实现原理](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488533&idx=2&sn=26f0b9dbb75921c19264de1e7f724b8e&chksm=ebd86487dcafed91409a7e6dce86c59d03b2e0033a7f09849ee001bcbbd24094562c1e300d4a#rd)
+- [Canal 组件简介与 vivo 帐号实践](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488533&idx=1&sn=508f45926cc018ae018656cf4660201a&chksm=ebd86487dcafed91adce055e95dd1614f8e3f599c7baf178cb5d0d7f9bbb8da9acf86fc50021#rd)
+- [CANAL源码解析](http://www.tianshouzhi.com/api/tutorials/canal)
+
 
 ## Redis
 
