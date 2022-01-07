@@ -45,6 +45,7 @@
 - [Java-第十四部分-JVM](https://juejin.cn/post/7013272188585246750/)
 - [Springboot添加应用jvm监控 ，实现数据可视化](https://mp.weixin.qq.com/s?__biz=MzAxMjY5NDU2Ng==&mid=2651855071&idx=1&sn=f683bb20857ea4e1ce6d2468da3756f0&chksm=80495d96b73ed4809b5b252650bc685313a161af777f7afde18841107e8c3db38e03cd948f8d&mpshare=1&scene=1&srcid=&sharer_sharetime=1587270007113&sharer_shareid=e94eb102f740cbaab21f37113574b2aa&exportkey=AbFWpAtrlv1HiOXTe2GQze0=&pass_ticket=3JyTyO77rJbqnYI0U6fi9ooSqlT4yloyfT4M0e3ObizE6803qkZzuYt9b9j8mt0c#rd)
 - [面渣逆袭：JVM经典五十问，这下面试稳了！](https://mp.weixin.qq.com/s/XYsEJyIo46jXhHE1sOR_0Q)
+- [Java 并发编程之 JMM & volatile 详解](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490043&idx=1&sn=6225a5a98eb804fbfe18cc3d4c4fc9dd&chksm=ebd86969dcafe07fec3dfba1d0de0aa46b1e410e19102ce81cb1cea2912317fd59ed3510f950#rd)
 
 
 ## MySQL
@@ -65,6 +66,9 @@
 - [SpringBoot2.0实战 | 第三十章：整合SpringSecurity之基于SpEL表达式实现动态方法鉴权](https://blog.csdn.net/gongm24/article/details/105052711)
 - [249.Spring Boot+Spring Security：基于URL动态权限：扩展access()的SpEL表达式](https://mp.weixin.qq.com/s?__biz=MzA4ODIyMzEwMg==&mid=2447533899&idx=1&sn=fa4272d828147ef2a6b5246acb724283&chksm=843bbb5ab34c324cf7392f28bd79fcf2bbd06b697f5123ca83104903c64b92b06abaaa349808&scene=21#wechat_redirect)
 - [Spring Boot + GraphQL 才是 API 的未来！](https://juejin.cn/post/7020216021206335524)
+- [如何优雅地记录操作日志？](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651764878&idx=1&sn=47d0a950bacdbd062e544251e4d2c4d5&chksm=bd1261c38a65e8d59395c62f565067c8c1dad2e71e9a864dd782b111a43234c24154799a9db5&scene=21#wechat_redirect)
+
+
 
 ## MyBatis
 
@@ -100,6 +104,9 @@
 - [系统性能提升利刃 | 缓存技术使用的实践与思考](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247484157&idx=3&sn=80b6c6a9b063e1690fdce9487b218a11&chksm=cf4a5a1ef83dd30826cd09c704e6e9f86d6d5cd15e627d1f4fbe37d44b718803b197e3706def#rd)
 - [图解Redis6中的9种数据结构，墙裂建议准备去面试的人先看（干货，建议收藏）](https://juejin.cn/post/7020976429072384013)
 - [Nginx 通过 Lua + Redis 实现动态封禁 IP](https://segmentfault.com/a/1190000018267201)
+- [HyperLogLog 算法原理及其在 Redis 中的实现](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490043&idx=2&sn=be8e71f5eed9ca3c248d2b520e1cd287&chksm=ebd86969dcafe07f59cbeff1cfc174d9dd83e32259d250927c229ca6f96c4c71fc42814f899a#rd)
+- [高性能缓存 Caffeine 原理及实战](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490199&idx=2&sn=988a6711a85c92a77fe1a89613330782&chksm=ebd86a05dcafe31346cde05084cf8be99c5eba9452a99d147bf592c7182475fac1f229689ae1#rd)
+
 
 ## MQ
 
@@ -131,9 +138,8 @@
 - [阿里巴巴CTO独家自述：CTO就是要给CEO扫清障碍和风险](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247486828&idx=2&sn=682f9d087bc67818e3735768b5c4ba95&chksm=cf4a558ff83ddc999a94984f9e9c8e89c67f6a9148618322b7ac8010398b6631331e00084588#rd)
 - [团队管理那点破事！OKR绩效、核心人才、面试、技术分享、研发流程....](https://mp.weixin.qq.com/s/1wd5-LiX3BKTZys3hfu9MQ)
 - [vivo 全球商城：架构演进之路](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488600&idx=1&sn=3d97f0a90469c4ed76a387d14c6c385b&chksm=ebd864cadcafeddcd2f00ecf0da396b486f678b7effa7453dc70e6a96ebbf3b3ffa2f0b0e77c#rd)
-
-
-
+- [vivo 全球商城：订单中心架构设计与实践](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488750&idx=1&sn=b27f527b67a6f1e3c4fec388628c4cde&chksm=ebd8647cdcafed6a5fbaa7457f6a9700a7c57c7a5f4aa33d02ef643b27e6afab8d538e8cd5ba#rd)
+- [Apache Flink 2022 新年大礼包](https://mp.weixin.qq.com/s/3JrLtXXPvxIUyFLuhyb8nA)
 
 
 
