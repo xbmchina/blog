@@ -46,7 +46,7 @@
 - [Springboot添加应用jvm监控 ，实现数据可视化](https://mp.weixin.qq.com/s?__biz=MzAxMjY5NDU2Ng==&mid=2651855071&idx=1&sn=f683bb20857ea4e1ce6d2468da3756f0&chksm=80495d96b73ed4809b5b252650bc685313a161af777f7afde18841107e8c3db38e03cd948f8d&mpshare=1&scene=1&srcid=&sharer_sharetime=1587270007113&sharer_shareid=e94eb102f740cbaab21f37113574b2aa&exportkey=AbFWpAtrlv1HiOXTe2GQze0=&pass_ticket=3JyTyO77rJbqnYI0U6fi9ooSqlT4yloyfT4M0e3ObizE6803qkZzuYt9b9j8mt0c#rd)
 - [面渣逆袭：JVM经典五十问，这下面试稳了！](https://mp.weixin.qq.com/s/XYsEJyIo46jXhHE1sOR_0Q)
 - [Java 并发编程之 JMM & volatile 详解](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490043&idx=1&sn=6225a5a98eb804fbfe18cc3d4c4fc9dd&chksm=ebd86969dcafe07fec3dfba1d0de0aa46b1e410e19102ce81cb1cea2912317fd59ed3510f950#rd)
-
+- [线上FGC调优案例三则](https://mp.weixin.qq.com/s/jSTk6dGv-Wa1IXJauyw-gA)
 
 ## MySQL
 
