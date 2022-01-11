@@ -32,7 +32,7 @@
 ## Java并发
 
 - [我惊了！CompletableFuture居然有性能问题！](https://juejin.cn/post/7016919183510208543)
-
+- [Java 多线程上下文传递在复杂场景下的实践](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490199&idx=1&sn=a1a14f077890dd07a1a3b58b3df8c844&chksm=ebd86a05dcafe3134010253f63db63b1c3b37b9510dc1fedd7745c41cc518c06e72df1307e1d#rd)
 
 ## JVM
 
@@ -140,7 +140,7 @@
 - [vivo 全球商城：架构演进之路](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488600&idx=1&sn=3d97f0a90469c4ed76a387d14c6c385b&chksm=ebd864cadcafeddcd2f00ecf0da396b486f678b7effa7453dc70e6a96ebbf3b3ffa2f0b0e77c#rd)
 - [vivo 全球商城：订单中心架构设计与实践](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488750&idx=1&sn=b27f527b67a6f1e3c4fec388628c4cde&chksm=ebd8647cdcafed6a5fbaa7457f6a9700a7c57c7a5f4aa33d02ef643b27e6afab8d538e8cd5ba#rd)
 - [Apache Flink 2022 新年大礼包](https://mp.weixin.qq.com/s/3JrLtXXPvxIUyFLuhyb8nA)
-
+- [干货 | Elasticsearch 多种跨机房灾备方案对比与实战解读](https://mp.weixin.qq.com/s/1NLZbZxELRrnqiy4p2RJyA)
 
 
 
