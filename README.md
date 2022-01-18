@@ -35,6 +35,7 @@
 - [Java 多线程上下文传递在复杂场景下的实践](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490199&idx=1&sn=a1a14f077890dd07a1a3b58b3df8c844&chksm=ebd86a05dcafe3134010253f63db63b1c3b37b9510dc1fedd7745c41cc518c06e72df1307e1d#rd)
 - [面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://mp.weixin.qq.com/s/1jhBZrAb7bnvkgN1TgAUpw)
 - [深入理解 web 协议(三)：http2](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490363&idx=1&sn=6ae50241ef5770852383e4ff2626b226&chksm=ebd86ba9dcafe2bf7a48557a19d0d5dca9d83ccfba4aba8e8dcae0dbb911944091cc0e918f83#rd)
+- [vivo 应用商店中的断点续传技术剖析](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490535&idx=2&sn=84b615ec02ef54d1c1d469dd11af91e2&chksm=ebd86b75dcafe263a45a3aaedd611816b9845d56680c282a0a72fd7c49c9def7165f64cfcb6a#rd)
 
 
 ## JVM
@@ -73,14 +74,14 @@
 - [如何优雅地记录操作日志？](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651764878&idx=1&sn=47d0a950bacdbd062e544251e4d2c4d5&chksm=bd1261c38a65e8d59395c62f565067c8c1dad2e71e9a864dd782b111a43234c24154799a9db5&scene=21#wechat_redirect)
 - [18张图，详解SpringBoot解析yml全流程](https://mp.weixin.qq.com/s/4CKgVeNdWoizRwXbIjf9mQ)
 - [几行烂代码，我赔了16万。](https://mp.weixin.qq.com/s/how7s_dxWGmmDja14WIAXw)
-
-
+- [Hystrix 实战经验分享](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490535&idx=3&sn=e232f4de66a832d7d05e1181e3a9ce3a&chksm=ebd86b75dcafe263b13e502bf9042ebafbdce5b1a65f5413d608f59e3051001511a55c208aac#rd)
+- [详解Apache Dubbo的SPI实现机制](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247491344&idx=2&sn=0ac23704bc0f1e66d065240e2538f89d&chksm=ebd86f82dcafe69499cf6dab34431a9102ed78cca2dc45c4e7172248ee605b8d0f0b1a1fadd0#rd)
 
 ## MyBatis
 
 - [MyBatis 自定义 SQL 拦截器](https://juejin.cn/post/7021508758777888799)
 - [SpringBoot 2.0 中 HikariCP 数据库连接池原理解析](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490170&idx=2&sn=aefac956ff0c205130d02d0be248859a&chksm=ebd86ae8dcafe3fe58fd321e9ab9f5c43616b867196fc3c7e2cf72b3dcf0372e32643f1a2383#rd)
-
+- [Mybatis-Plus的应用场景及注入SQL原理分析](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247491188&idx=2&sn=a6ced0bae0d50a8661c17a99dc9cc02a&chksm=ebd86ee6dcafe7f0af0020c33a7ad96913cf3bb1bd63384e45f8f5a14de0b0516540760cbf1e#rd)
 
 ## SpringCloud系列
 
@@ -113,6 +114,7 @@
 - [HyperLogLog 算法原理及其在 Redis 中的实现](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490043&idx=2&sn=be8e71f5eed9ca3c248d2b520e1cd287&chksm=ebd86969dcafe07f59cbeff1cfc174d9dd83e32259d250927c229ca6f96c4c71fc42814f899a#rd)
 - [高性能缓存 Caffeine 原理及实战](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490199&idx=2&sn=988a6711a85c92a77fe1a89613330782&chksm=ebd86a05dcafe31346cde05084cf8be99c5eba9452a99d147bf592c7182475fac1f229689ae1#rd)
 - [浅谈缓存最终一致性的解决方案](https://mp.weixin.qq.com/s/Y9S89MT0uAobzRKgYVrI9Q)
+- [如何把 Caffeine Cache 用得如丝般顺滑？](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490917&idx=3&sn=9f38d958ea75dd3593062f6c8b52d3fb&chksm=ebd86df7dcafe4e1cdfd3fbc9521f9fc5c06031f5605503aebdf66823fc6b01a14408db1c669#rd)
 
 ## MQ
 
@@ -148,10 +150,10 @@
 - [Apache Flink 2022 新年大礼包](https://mp.weixin.qq.com/s/3JrLtXXPvxIUyFLuhyb8nA)
 - [干货 | Elasticsearch 多种跨机房灾备方案对比与实战解读](https://mp.weixin.qq.com/s/1NLZbZxELRrnqiy4p2RJyA)
 - [Sentry（日志监控系统）搭建与集成 ](https://www.cnblogs.com/heyouxin/p/12468984.html)
-
-
-
-
+- [玩转直播系列之从 0 到 1 构建简单直播系统（1）](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490988&idx=1&sn=35cd2857ca03bfe11c6727760f1609ad&chksm=ebd86d3edcafe42842ab31f5ea60e477677d618234482564f4d846454821f6845e2ef602389b#rd)
+- [玩转直播系列之RTMP协议和源码解析（2）](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247491095&idx=1&sn=70e04d5bace12029da2d57aeb893d0fe&chksm=ebd86e85dcafe79382733d4dfbc8db3131d50f6055b04d9128227c47c32880fb47089a78038b#rd)
+- [玩转直播系列之消息模块演进(3)](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247491188&idx=1&sn=dda66cd5e55051ae8760156f6fcaa87b&chksm=ebd86ee6dcafe7f0ca1ee01894c9f1f03b095788e3a60764ce2390e4a5586abf48986234d558#rd)
+- [深入浅出负载均衡](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247491276&idx=1&sn=af162b935fbc8bb6fab3d66cf862ad79&chksm=ebd86e5edcafe748cfba64c6483792bf848c8ac375158835e3387fc8ab3bfa4505f64aa7f1f0#rd)
 
 
 
