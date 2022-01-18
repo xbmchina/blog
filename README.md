@@ -33,6 +33,9 @@
 
 - [我惊了！CompletableFuture居然有性能问题！](https://juejin.cn/post/7016919183510208543)
 - [Java 多线程上下文传递在复杂场景下的实践](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490199&idx=1&sn=a1a14f077890dd07a1a3b58b3df8c844&chksm=ebd86a05dcafe3134010253f63db63b1c3b37b9510dc1fedd7745c41cc518c06e72df1307e1d#rd)
+- [面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://mp.weixin.qq.com/s/1jhBZrAb7bnvkgN1TgAUpw)
+- [深入理解 web 协议(三)：http2](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490363&idx=1&sn=6ae50241ef5770852383e4ff2626b226&chksm=ebd86ba9dcafe2bf7a48557a19d0d5dca9d83ccfba4aba8e8dcae0dbb911944091cc0e918f83#rd)
+
 
 ## JVM
 
@@ -47,6 +50,7 @@
 - [面渣逆袭：JVM经典五十问，这下面试稳了！](https://mp.weixin.qq.com/s/XYsEJyIo46jXhHE1sOR_0Q)
 - [Java 并发编程之 JMM & volatile 详解](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490043&idx=1&sn=6225a5a98eb804fbfe18cc3d4c4fc9dd&chksm=ebd86969dcafe07fec3dfba1d0de0aa46b1e410e19102ce81cb1cea2912317fd59ed3510f950#rd)
 - [线上FGC调优案例三则](https://mp.weixin.qq.com/s/jSTk6dGv-Wa1IXJauyw-gA)
+- [据说看完这篇 JVM 要一小时](https://mp.weixin.qq.com/s/mQErApHnlacTgdbtJV2y9w)
 
 ## MySQL
 
@@ -55,7 +59,7 @@
 - [Innodb中mysql如何快速删除2T的大表](https://mp.weixin.qq.com/s?__biz=MzIwMDgzMjc3NA==&mid=2247483912&idx=1&sn=02fe7207f2aab935d02f11cca2ef7643&chksm=96f66061a181e97764e8a6f73a70ec827840cea6c62a80c11ea28352155d032470faba72a489#rd)
 - [面试官一口气问了MySQL事务、锁和MVCC，](https://juejin.cn/post/7016486567485112356)
 - [256变4096：分库分表扩容如何实现平滑数据迁移？](https://mp.weixin.qq.com/s?__biz=Mzg4MzIwMDM5Ng==&mid=2247486000&idx=3&sn=f30f1d36091b5106b7df8705a89650bf&chksm=cf4a52d3f83ddbc562e55e11a8029431d70fd23b35613632d880c2f8a1be4996e2dad33e1d65#rd)
-
+- [聊聊索引失效的10种场景，太坑了](https://mp.weixin.qq.com/s/ROLgSSeiHF_kutqS-v3I4w)
 
 ## Spring&SpringBoot
 
@@ -67,6 +71,8 @@
 - [249.Spring Boot+Spring Security：基于URL动态权限：扩展access()的SpEL表达式](https://mp.weixin.qq.com/s?__biz=MzA4ODIyMzEwMg==&mid=2447533899&idx=1&sn=fa4272d828147ef2a6b5246acb724283&chksm=843bbb5ab34c324cf7392f28bd79fcf2bbd06b697f5123ca83104903c64b92b06abaaa349808&scene=21#wechat_redirect)
 - [Spring Boot + GraphQL 才是 API 的未来！](https://juejin.cn/post/7020216021206335524)
 - [如何优雅地记录操作日志？](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651764878&idx=1&sn=47d0a950bacdbd062e544251e4d2c4d5&chksm=bd1261c38a65e8d59395c62f565067c8c1dad2e71e9a864dd782b111a43234c24154799a9db5&scene=21#wechat_redirect)
+- [18张图，详解SpringBoot解析yml全流程](https://mp.weixin.qq.com/s/4CKgVeNdWoizRwXbIjf9mQ)
+- [几行烂代码，我赔了16万。](https://mp.weixin.qq.com/s/how7s_dxWGmmDja14WIAXw)
 
 
 
@@ -106,7 +112,7 @@
 - [Nginx 通过 Lua + Redis 实现动态封禁 IP](https://segmentfault.com/a/1190000018267201)
 - [HyperLogLog 算法原理及其在 Redis 中的实现](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490043&idx=2&sn=be8e71f5eed9ca3c248d2b520e1cd287&chksm=ebd86969dcafe07f59cbeff1cfc174d9dd83e32259d250927c229ca6f96c4c71fc42814f899a#rd)
 - [高性能缓存 Caffeine 原理及实战](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490199&idx=2&sn=988a6711a85c92a77fe1a89613330782&chksm=ebd86a05dcafe31346cde05084cf8be99c5eba9452a99d147bf592c7182475fac1f229689ae1#rd)
-
+- [浅谈缓存最终一致性的解决方案](https://mp.weixin.qq.com/s/Y9S89MT0uAobzRKgYVrI9Q)
 
 ## MQ
 
@@ -141,7 +147,7 @@
 - [vivo 全球商城：订单中心架构设计与实践](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488750&idx=1&sn=b27f527b67a6f1e3c4fec388628c4cde&chksm=ebd8647cdcafed6a5fbaa7457f6a9700a7c57c7a5f4aa33d02ef643b27e6afab8d538e8cd5ba#rd)
 - [Apache Flink 2022 新年大礼包](https://mp.weixin.qq.com/s/3JrLtXXPvxIUyFLuhyb8nA)
 - [干货 | Elasticsearch 多种跨机房灾备方案对比与实战解读](https://mp.weixin.qq.com/s/1NLZbZxELRrnqiy4p2RJyA)
-
+- [Sentry（日志监控系统）搭建与集成 ](https://www.cnblogs.com/heyouxin/p/12468984.html)
 
 
 
