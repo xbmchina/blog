@@ -115,6 +115,7 @@
 - [高性能缓存 Caffeine 原理及实战](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490199&idx=2&sn=988a6711a85c92a77fe1a89613330782&chksm=ebd86a05dcafe31346cde05084cf8be99c5eba9452a99d147bf592c7182475fac1f229689ae1#rd)
 - [浅谈缓存最终一致性的解决方案](https://mp.weixin.qq.com/s/Y9S89MT0uAobzRKgYVrI9Q)
 - [如何把 Caffeine Cache 用得如丝般顺滑？](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247490917&idx=3&sn=9f38d958ea75dd3593062f6c8b52d3fb&chksm=ebd86df7dcafe4e1cdfd3fbc9521f9fc5c06031f5605503aebdf66823fc6b01a14408db1c669#rd)
+- [十亿级流量下，我与Redis时延小突刺的战斗史](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247491344&idx=1&sn=5d573319d989b908454e26711c10e817&chksm=ebd86f82dcafe694446825a09eb4c419369ee14285c7a0a5a72b80236d0f12d6dce07f51d348#rd)
 
 ## MQ
 
@@ -136,6 +137,8 @@
 
 ## Linux
 - [Centos7 设置定时任务](https://blog.csdn.net/qq_19734597/article/details/92676323)
+- [深入理解 CPU 的调度原理](https://mp.weixin.qq.com/s/kyTZsJBQmk75A58uReabww)
+
 
 ## 其他
 
@@ -154,6 +157,7 @@
 - [玩转直播系列之RTMP协议和源码解析（2）](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247491095&idx=1&sn=70e04d5bace12029da2d57aeb893d0fe&chksm=ebd86e85dcafe79382733d4dfbc8db3131d50f6055b04d9128227c47c32880fb47089a78038b#rd)
 - [玩转直播系列之消息模块演进(3)](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247491188&idx=1&sn=dda66cd5e55051ae8760156f6fcaa87b&chksm=ebd86ee6dcafe7f0ca1ee01894c9f1f03b095788e3a60764ce2390e4a5586abf48986234d558#rd)
 - [深入浅出负载均衡](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247491276&idx=1&sn=af162b935fbc8bb6fab3d66cf862ad79&chksm=ebd86e5edcafe748cfba64c6483792bf848c8ac375158835e3387fc8ab3bfa4505f64aa7f1f0#rd)
+- [Sentry官方文档](https://docs.sentry.io/)
 
 
 
