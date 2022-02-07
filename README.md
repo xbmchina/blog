@@ -136,8 +136,17 @@
 
 
 ## Linux
+
 - [Centos7 设置定时任务](https://blog.csdn.net/qq_19734597/article/details/92676323)
 - [深入理解 CPU 的调度原理](https://mp.weixin.qq.com/s/kyTZsJBQmk75A58uReabww)
+
+
+## 经历
+
+- [我在阿里做测开](https://toutiao.io/posts/1h8u439)
+- [作为研发Leader，如何做总结](https://mp.weixin.qq.com/s/ZC2WPIfOEQfXXAheExHUgA)
+- [非科班出生转行PHP开发三年后，又转战到Java开发我都经历了什么！](https://mp.weixin.qq.com/s/4zEJHEHsalxmdhGOlayLYg)
+
 
 
 ## 其他
@@ -158,6 +167,8 @@
 - [玩转直播系列之消息模块演进(3)](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247491188&idx=1&sn=dda66cd5e55051ae8760156f6fcaa87b&chksm=ebd86ee6dcafe7f0ca1ee01894c9f1f03b095788e3a60764ce2390e4a5586abf48986234d558#rd)
 - [深入浅出负载均衡](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247491276&idx=1&sn=af162b935fbc8bb6fab3d66cf862ad79&chksm=ebd86e5edcafe748cfba64c6483792bf848c8ac375158835e3387fc8ab3bfa4505f64aa7f1f0#rd)
 - [Sentry官方文档](https://docs.sentry.io/)
+- [解读 5 种软件架构模式](https://mp.weixin.qq.com/s/1tOgJxseT6zbYicVBPzrVw)
+
 
 
 
